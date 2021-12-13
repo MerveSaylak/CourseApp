@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace CourseApp.Controllers
 {
-
+    //test
     // localhost:5237/course
     public class CourseController:Controller
     {
